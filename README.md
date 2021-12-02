@@ -18,6 +18,7 @@ Desire to learn new things and perseverance are the words that define me.
 ![MongoDB](https://img.shields.io/badge/MongoDB-12A006?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)</br>
 ![User Interface Design](https://img.shields.io/badge/User_Interface_Design-000000?style=for-the-badge&logo=uiux&logoColor=white&labelColor=101010)
 ![User experience Design](https://img.shields.io/badge/User_experience_Design-000000?style=for-the-badge&logo=uiux&logoColor=white&labelColor=101010)</br>
+And more...
 
 ## Find me at:
 [![Web](https://img.shields.io/badge/My_Own_Web-camilanieto.com-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)]()
