@@ -48,8 +48,8 @@ Desire to learn new things and perseverance are the words that define me.
 
 
 ## 💻 Find me on:
-[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-12A006?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://comp229-assignment1-camila.herokuapp.com/)
-[![Web](https://img.shields.io/badge/My_Own_Web-camilanieto.com-12A006?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://camila-comp229-assignment2.herokuapp.com/)</br>  
+[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://comp229-assignment1-camila.herokuapp.com/)
+[![Web](https://img.shields.io/badge/My_Own_Web-camilanieto.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camila-comp229-assignment2.herokuapp.com/)</br>  
 
 [![Facebook](https://img.shields.io/badge/Facebook-@camilanieto-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/camila.nieto.3192)
 [![Instagram](https://img.shields.io/badge/Instagram-@camilanieto4444-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/camilanieto4444/)
