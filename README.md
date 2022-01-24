@@ -48,10 +48,10 @@ Desire to learn new things and perseverance are the words that define me.
 
 
 ## 📌 Group projects:
-### Pear Survey Builder
+### ✔ Pear Survey Builder
 <ul>
-   <li> <strong><h4>GitHub repository</h4> https://github.com/ChogLight/Pear-Survey-Project </li>
-   <li> <strong><h4>Webpage</h4> https://comp229-pear-survey.herokuapp.com/ </li>
+   <li> <strong><h3>GitHub repository</h3> https://github.com/ChogLight/Pear-Survey-Project </li>
+   <li> <strong><h3>Webpage</h3> https://comp229-pear-survey.herokuapp.com/ </li>
 </ul>
 
 
