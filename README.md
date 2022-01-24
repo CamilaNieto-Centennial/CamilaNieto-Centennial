@@ -47,6 +47,7 @@ Desire to learn new things and perseverance are the words that define me.
 <br>
 
 
+
 ## 📌 Group projects:
 ### ✔ Pear Survey Builder
 <ul>
