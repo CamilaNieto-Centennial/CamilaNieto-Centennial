@@ -47,6 +47,14 @@ Desire to learn new things and perseverance are the words that define me.
 <br>
 
 
+## 📌 Group projects:
+### Pear Survey Builder
+<ul>
+   <li> <strong><h4>GitHub repository</h4> https://github.com/ChogLight/Pear-Survey-Project </li>
+   <li> <strong><h4>Webpage</h4> https://comp229-pear-survey.herokuapp.com/ </li>
+</ul>
+
+
 ## 💻 Find me on:
 [![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://comp229-assignment1-camila.herokuapp.com/)
 [![Web](https://img.shields.io/badge/My_Own_Web-camilanieto.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camila-comp229-assignment2.herokuapp.com/)</br>  
