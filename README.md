@@ -1,6 +1,7 @@
    
 # 👋 Hello, my name is Camila Nieto
-### UI/UX designer / Front End Developer
+### UI/UX designer / Full Stack Developer
+[![@kmi4444's Holopin board](https://holopin.me/kmi4444)](https://holopin.io/@kmi4444)
 
 <!--
 **CamilaNieto-Centennial/CamilaNieto-Centennial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -57,8 +58,7 @@ Desire to learn new things and perseverance are the words that define me.
 
 
 ## 💻 Find me on:
-[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://comp229-assignment1-camila.herokuapp.com/)
-[![Web](https://img.shields.io/badge/My_Own_Web-camilanieto.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camilanieto-personalwebsite.herokuapp.com/)</br>  
+[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camilanieto-centennial.github.io/)
 
 [![Facebook](https://img.shields.io/badge/Facebook-@camilanieto-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/camila.nieto.3192)
 [![Instagram](https://img.shields.io/badge/Instagram-@camilanieto4444-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/camilanieto4444/)
