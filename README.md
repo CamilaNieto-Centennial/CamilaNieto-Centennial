@@ -1,13 +1,13 @@
    
 # 👋 Hello, my name is Camila Nieto
-### Full Stack Developer & Front End Developer
+### Full Stack Developer & Software Engineer
 [![@kmi4444's Holopin board](https://holopin.me/kmi4444)](https://holopin.io/@kmi4444)
 
 <!--
 **CamilaNieto-Centennial/CamilaNieto-Centennial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am a graduate of Centennial College(Toronto, Canada) in the program of Software Engineering Technician.
-I am interested in diverse roles such as Front-End Developer, Full Stack Developer, and UI/UX Designer. Additionally I hope to be a Full Stack developer one day.
+I am interested in diverse roles such as Front-End Developer, Back-End Developer, and Full Stack Developer. Additionally I hope to be a Full Stack developer one day.
 Desire to learn new things and perseverance are the words that define me. 
 
 ## ⚡ Languages, Frameworks and Tools:
@@ -16,6 +16,7 @@ Desire to learn new things and perseverance are the words that define me.
 ![GitHub](https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML-FF461E?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![CSS3](https://img.shields.io/badge/CSS-2783FF?style=for-the-badge&logo=CSS3&logocolor=white&labelColor=101010)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logocolor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-602C50?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)
@@ -30,7 +31,7 @@ Desire to learn new things and perseverance are the words that define me.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-f89820?style=for-the-badge&logo=java&logocolor=white&labelColor=101010)
 <!--![And more](https://img.shields.io/badge/And_more-000000?style=for-the-badge&logo=uiux&logoColor=white&labelColor=101010)-->
 
 ## 🏆 My Github Stats:
@@ -56,7 +57,8 @@ Desire to learn new things and perseverance are the words that define me.
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 
 ## 📌 Group projects:
@@ -68,9 +70,10 @@ Desire to learn new things and perseverance are the words that define me.
 
 
 ## 💻 Find me on:
-[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camilanieto-centennial.github.io/)
+[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camilanieto-centennial.github.io/dist)
 
-[![Facebook](https://img.shields.io/badge/Facebook-@camilanieto-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/camila.nieto.3192)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/camila-andrea-nieto-moya-954196227/)
+[![Facebook](https://img.shields.io/badge/Facebook-@camilanieto-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/camila.nieto.3192)
 [![Instagram](https://img.shields.io/badge/Instagram-@camilanieto4444-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/camilanieto4444/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Camila84071589-14a1f0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Camila84071589)
 
