@@ -70,7 +70,7 @@ Desire to learn new things and perseverance are the words that define me.
 
 
 ## 💻 Find me on:
-[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=800000)](https://camilanieto-centennial.github.io/dist)
+[![ePortfolio](https://img.shields.io/badge/My_ePortfolio-portfolioCamila.com-F0DB4F?style=for-the-badge&logoColor=white&labelColor=800000)](https://camilanieto-centennial.github.io/dist)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/camila-andrea-nieto-moya-954196227/)
 [![Facebook](https://img.shields.io/badge/Facebook-@camilanieto-4267B2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/camila.nieto.3192)
